@@ -61,7 +61,7 @@ PAGE_SAVE_AS = 'pages/{slug}.html'
 
 # ((nom, url, icone, (nom, url, icone),description, couleur)...)
 MENUITEMS = (
-    ("Accueil", "/", "house", None, "Page d'accueil du portefolio", None),
+    ("Accueil", "/index", "house", None, "Page d'accueil du portefolio", None),
 
     ("Mon parcours", "/pages/parcours", "mortarboard",
         (

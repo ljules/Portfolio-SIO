@@ -91,20 +91,24 @@ Couleur des éléments de navigations :
     font-size: 0.8em;
 }
 
+
 .nav-link-icon {
     font-size: 1.5em;
 }
+
 
 .nav-link {
     color: var(--nav-link);
 }
 
+
 .nav-link:hover, .dropdown-item:hover {
     color: var(--bs-warning);
 }
 
-.nav-link:active {
-    color: black;
+
+.nav-link:focus {
+    color: var(--nav-link);
 }
 
 
@@ -118,9 +122,16 @@ Couleur des éléments de navigations :
     color: black;
 }
 
-.dropdown-item:active {
-    background-color: var(--navbar-brand-couleur);
-    color: white;
+
+.dropdown-item:focus {
+    background-color: black;
+    color: var(--nav-link-active);;
+}
+
+
+.navbar-nav .nav-item .dropdown-menu .active {
+    background-color: black;
+    color: var(--nav-link-active);
 }
 
 

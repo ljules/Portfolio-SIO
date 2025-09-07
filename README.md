@@ -26,9 +26,15 @@ git clone https://github.com/ljules/Portfolio-sio
 cd Portfolio-SIO
 
 # 2. Créer un environnement virtuel
-python -m venv venv
-source venv/bin/activate        # Linux/macOS
-venv\Scripts\activate.bat       # Windows
+
+# Linux/macOS :
+python3 -m venv venv        # Création de l'environnement virtuel dans un dossier venv.
+source venv/bin/activate    # Activation de l'environnement virtuel.
+
+# Windows :
+python -m venv venv         # Création de l'environnement virtuel dans un dossier venv.
+venv\Scripts\activate.bat   # Activation de l'environnement virtuel.
+
 
 # 3. Installer les dépendances
 pip install pelican markdown --proxy http://IP_PROXY:PORT
