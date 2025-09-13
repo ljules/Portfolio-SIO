@@ -7,6 +7,9 @@ Title: Engagement étudiant
 
 En parallèle de mes études en BTS SIO, je suis **pompier volontaire** depuis 2 ans au sein du centre de secours de [VilleFictive].  
 
+<img src="{static}/images/portrait-pompier_volontaire.png" class="shadow" style="width:150px;" >
+
+
 ### Mes missions principales
 - Interventions de secours à personnes (accidents, urgences médicales).  
 - Lutte contre les incendies et protection des biens.  

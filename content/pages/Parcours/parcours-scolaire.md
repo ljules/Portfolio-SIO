@@ -13,9 +13,6 @@ Après un bac **STI2D** spécialité **SIN** (**S**ystèmes d'**I**nformations &
     - **SLAM** (**S**olutions **L**ogicielles et **A**pplications **M**étiers) → développement d’applications, web, bases de données.
 
 
-<img    src="{static}/images/BTS_SIO.png" alt="Logo LdV" style="width: 200px;">
-
-
 - **<u>Durée :</u>** 2 ans.
 - **<u>Débouchés :</u>** emploi direct (technicien support, admin systèmes/réseaux, développeur junior) ou poursuite d’études (Bachelor, BUT, Licence).
 

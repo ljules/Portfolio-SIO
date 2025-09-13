@@ -2,6 +2,8 @@ Title: BTS SIO
 
 # 🎓 BTS SIO – Services Informatiques aux Organisations
 
+<img    src="{static}/images/BTS_SIO.png" alt="Logo LdV" class="shadow" style="width: 200px;">
+
 Le **BTS SIO** est un diplôme national de niveau **BAC +2** orienté vers les métiers de l’informatique.  
 Il forme des techniciens capables d’installer, de configurer, de maintenir des infrastructures informatiques ou de développer des applications répondant aux besoins des organisations.
 
