@@ -2,7 +2,7 @@ Title: Parcours scolaire
 
 # Présentation de mon parcours scolaire
 
-Après un bac **STI2D** spécialité **SIN** (**S**ystèmes d'**I**nformations & **N**umérique) j'avais la volonté de poursuivre dans le domaine de l'informatique. Après m'être renseigné, j'avais recensé les poursuite d'études suivantes dans le domaine de l'informatique :
+Après un bac **STI2D** spécialité **SIN** (**S**ystèmes d'**I**nformations & **N**umérique) j'avais la volonté de poursuivre dans le domaine de l'informatique. Après m'être renseigné, j'avais recensé les poursuites d'études suivantes dans le domaine de l'informatique :
 
 
 
@@ -11,6 +11,9 @@ Après un bac **STI2D** spécialité **SIN** (**S**ystèmes d'**I**nformations &
 - **<u>Options :</u>**
     - **SISR** (**S**olutions d’**I**nfrastructure, **S**ystèmes et **R**éseaux) → administration réseaux, cybersécurité, cloud, virtualisation.
     - **SLAM** (**S**olutions **L**ogicielles et **A**pplications **M**étiers) → développement d’applications, web, bases de données.
+
+
+<img    src="{static}/images/BTS_SIO.png" alt="Logo LdV" style="width: 200px;">
 
 
 - **<u>Durée :</u>** 2 ans.
@@ -34,4 +37,6 @@ Formation en 3 ans (mais on peut sortir après 2 ans avec un DUT).
 
 
 
-J'ai opté pour le **BTS SIO** en spécialité **SLAM** pour approfondir mes compétences en développement d'applications.
+J'ai opté pour le **BTS SIO** en spécialité **SLAM** pour approfondir mes compétences en développement d'applications. J'ai choisi le **STS** du lycée **Léonard de Vinci** de la ville de Melun.
+
+<img    src="{static}/images/logo&baseline-fondblanc.png" alt="Logo LdV" style="width: 200px;">

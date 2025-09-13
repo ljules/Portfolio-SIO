@@ -120,29 +120,6 @@ SUMMARY_MAX_LENGTH = 100
 DEFAULT_PAGINATION = 10
 
 
-# CONFIGURATION DES PLUGINS MARKDOWN (ex résolution des balises {static}; {filename}; {attach}) :
-# -----------------------------------------------------------------------------------------------
-# MARKDOWN = {
-#     'extension_configs': {
-#         'markdown.extensions.extra': {},
-#         'markdown.extensions.codehilite': {},
-#         'markdown.extensions.meta': {},          
-#         "pelican.plugins.markdown.extensions.pelican_markdown_extensions": {}, # indispensable pour {filename}, {static}, {attach}
-#     },
-#     'output_format': 'html5',
-# }
-
-# MARKDOWN = {
-#     "extensions": [
-#         "markdown.extensions.extra",
-#         "markdown.extensions.codehilite",
-#         "markdown.extensions.meta",
-#         "pelican.plugins.markdown.extensions.pelican_markdown_extensions",  # indispensable pour {filename}, {static}, {attach}
-#     ],
-#     "output_format": "html5",
-# }
-
-
 
 # Flux RSS/Atom :
 # ---------------
